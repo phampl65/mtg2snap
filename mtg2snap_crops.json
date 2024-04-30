@@ -1,0 +1,26 @@
+{"crops" : {
+    "Fulldisk" : [0,5568,0,5568],
+    "Europe"            : [1950,4125,70,1120],
+    "Europe2"            : [2284,3388,0,1120],
+    "MSG B region"      : [430,5140,70,1400],
+    "North hemisphere"    : [0,5568,70,3330],
+    "Near East"     : [4020,4800,900,1500],
+    "CE [Alps->Carpathians]" : [2950,3790,300,750],
+    "CS"                : [3100,3600,450,630],
+    "Mediterranean Sea"  : [2400,4300,600,1400],
+    "Africa230929"      : [2294,3294,1804,2554], 
+    "Africa Equator West"       : [1850,4500,2000,2700],
+    "AfrStorm"          : [1850,4500,2000,3700],
+    "Sahara"            : [1860,4600,950,2480]
+},
+"cropcode": {
+    "EU": "Europe",
+    "EU2": "Europe2",
+    "MSGB": "MSG B region",
+    "NH": "North hemisphere",
+    "NE": "Near East",
+    "CEAC": "CE [Alps->Carpathians]",
+    "Medit": "Mediterranean Sea",
+    "AFEW": "Africa Equator West"
+}
+}
